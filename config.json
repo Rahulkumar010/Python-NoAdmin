@@ -1,0 +1,19 @@
+{
+  "python_version": "3.12.8",
+  "install_dir_name": ".python-nonadmin",
+  "windows": {
+    "embeddable_url": "https://www.python.org/ftp/python/3.12.8/python-3.12.8-embed-amd64.zip",
+    "embeddable_url_32bit": "https://www.python.org/ftp/python/3.12.8/python-3.12.8-embed-win32.zip",
+    "get_pip_url": "https://bootstrap.pypa.io/get-pip.py"
+  },
+  "unix": {
+    "base_url": "https://github.com/indygreg/python-build-standalone/releases/download",
+    "release_tag": "20241206",
+    "builds": {
+      "linux_x86_64": "cpython-3.12.8+20241206-x86_64-unknown-linux-gnu-install_only.tar.gz",
+      "linux_aarch64": "cpython-3.12.8+20241206-aarch64-unknown-linux-gnu-install_only.tar.gz",
+      "macos_x86_64": "cpython-3.12.8+20241206-x86_64-apple-darwin-install_only.tar.gz",
+      "macos_aarch64": "cpython-3.12.8+20241206-aarch64-apple-darwin-install_only.tar.gz"
+    }
+  }
+}

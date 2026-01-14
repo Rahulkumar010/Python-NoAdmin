@@ -1,0 +1,28 @@
+# Python-NoAdmin - Ignore bootstrap Python binaries
+/bin/python/
+*.zip
+*.tar.gz
+
+# Ignore user installations (for testing)
+.python-nonadmin/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
