@@ -4,6 +4,10 @@
 
 A cross-platform solution for developers working in restricted environments who need a fully functional Python runtime without elevated privileges.
 
+![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![No Admin](https://img.shields.io/badge/Admin-Not%20Required-success)
 ---
 
 ## Quick Start
